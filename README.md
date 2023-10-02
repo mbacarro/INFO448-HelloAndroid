@@ -144,4 +144,10 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+Something that I found while browsing the Developer Options was Show Taps and Pointer Location. Enabling 'Show Taps' will cause a circle to appear under wherever the screen was tapped and continues 
+to follow you until you let go. Enabling 'Pointer Location' will do a similar thing but instead of a circle, it will display a crosshair under where you tapped. Additionally, it'll provide more 
+information at the top of the screen to display the coordinates of where you are holding/tapping. As you move around the numbers will change and it will draw out the path you are making.
+With these features, I feel like we will use this to help figure out interactions within our apps such as swiping, tapping different areas, or other movements (Or something like Pokemon Go where it'll
+do some calculations on where to aim and how far to throw the pokeball).
+
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
